@@ -1,5 +1,5 @@
 # Columbus_V1000-GPS-Binary-file-converter
- Convert ColumbusV1000 GPS Binary files (*.GPS) into Google Earth .kml file 
+ Convert Columbus V1000 GPS Binary files (*.GPS) into Google Earth .kml file 
 
   Created by Diving91
   Version 0.1 - 2016-09-02
