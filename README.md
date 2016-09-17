@@ -6,8 +6,8 @@
 
   - Parse the GPS original folder structure and copy Columbus Binary files in basedir with name format yyyy-mm-dd hh-mm-ss.GPS
   - Convert Binary files to csv files then into gpx format
-  - Extract Waypoints from csv files into a gpx file
-  - Generate a kml file including all tracks and waypoints
+  - Extract Waypoints (POIs) from csv files into a gpx file
+  - Generate a kml file including all tracks and waypoints (POIs)
 
 GPS is from Columbus: http://cbgps.com/v1000/index.html
 
