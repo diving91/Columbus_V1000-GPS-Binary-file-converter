@@ -18,3 +18,5 @@ This PowerShell Script uses other tools:
 - Google Earth
 
 Photo of the GPS data logger: http://cbgps.com/v1000/front_home.jpg
+
+<img src="http://cbgps.com/v1000/front_home.jpg">
